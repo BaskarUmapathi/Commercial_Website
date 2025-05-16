@@ -1,7 +1,9 @@
 # Ex02 Commercial Website
-## Date:
-## REG NO:212223220013
-
+## Date: 30.04.2025
+```
+NAME: BASKAR U
+REG NO:212223220013
+```
 ## AIM
 To create a commercial website using CSS Flexbox.
 
